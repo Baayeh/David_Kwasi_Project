@@ -1,5 +1,10 @@
 @media only screen and (max-width: 720px) {
     nav {
-      background-color: lightblue;
+        background-color: lightblue;
     }
+}
+
+#welcome-section {
+    height: 100vh;
+    overflow: auto;
 }
