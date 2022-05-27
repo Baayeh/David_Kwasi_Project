@@ -8,3 +8,15 @@
     height: 100vh;
     overflow: auto;
 }
+
+body {
+    position: relative;
+}
+
+#navbar {
+    position: fixed;
+}
+
+#welcome-text {
+    margin-top: 80px;
+}
